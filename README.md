@@ -33,7 +33,7 @@
 <hr>
 
 <div align="center" class="section">
-  <h2>Обо мне</h2>
+  <h2>About Me</h2>
   <p>
     Меня зовут Анна, я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </p>
