@@ -18,10 +18,7 @@
 <hr>
 
 <div align="center" class="section">
-  <h1>
-    Всем привет
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1>Всем привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <hr>
@@ -32,11 +29,9 @@
 
 <hr>
 
-<div align="center" class="section">
-  <h2>About Me</h2>
-  <p>
-    Меня зовут Анна, я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </p>
+<div class="section">
+  <h2>:woman_technologist: About Me</h2>
+  <p>Меня зовут Анна, я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <p>:telescope: Занимаюсь бэкенд-разработкой.</p>
   <p>:zap: В свободное время хожу на концерты, путешествую и глажу котиков.</p>
   <p>:mailbox: Связаться со мной можно в Telegram: 
@@ -48,9 +43,9 @@
 
 <hr>
 
-<div align="center" class="section">
+<div class="section">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
-  <div>
+  <div style="text-align: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django REST Framework" alt="DRF" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -58,6 +53,33 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/celery.png" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
+  </div>
+</div>
+
+<hr>
+
+</body>
+</html>
+
+<div class="section">
+  <h2>🔥 Моя статистика 🔥</h2>
+
+
+
+  <!-- GitHub Stats -->
+  <div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=annavaleriev&show_icons=true&theme=merko" alt="GitHub Stats"/>
+    </a>
+  </div>
+
+  <hr>
+
+  <!-- Top Languages Stats -->
+  <div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavaleriev&layout=compact&theme=merko" alt="Top Languages"/>
+    </a>
   </div>
 </div>
 
