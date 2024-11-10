@@ -38,7 +38,7 @@
     Меня зовут Анна, я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </p>
   <p>:telescope: Занимаюсь бэкенд-разработкой.</p>
-  <p>:zap: В свободное время решаю задачи и изучаю новые технологии.</p>
+  <p>:zap: В свободное время хожу на концерты, путешествую и глажу котиков.</p>
   <p>:mailbox: Связаться со мной можно в Telegram: 
     <a href="your-telegram-url">
       <img src="https://img.shields.io/badge/-Anna-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
