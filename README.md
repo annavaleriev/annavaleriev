@@ -88,6 +88,12 @@
 </body>
 </html>
 
+<p align="center">
+  <a href="https://github.com/annavaleriev/annavaleriev/blob/output/github-contribution-grid-snake.svg" title="Snek 🐍">
+    <img src="https://github.com/annavaleriev/annavaleriev/blob/output/github-contribution-grid-snake.svg" alt="Бегущая змея по коммитам"/>
+  </a>
+</p>
+
 
 
 
