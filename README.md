@@ -24,3 +24,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejcxNTk3YnM3NTBjYXZubnJ0YXFsemRlb2FuYW53d2llcmh5Z3V2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fipN1GOuDK8txSqay3/giphy.gif" width="400" height="200"/>
 </div>
 
+:woman_technologist: Обо мне :
+
+Меня зовут Анна, я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: Занимаюсь бэкенд-разработкой.
+
+- :zap: В свободное время решаю задачи и изучаю новые технологии.
+
+- :mailbox: Связаться со мной можно в Telegram: [![Telegram Badge](https://img.shields.io/badge/-Anna-blue?style=flat&logo=Telegram&logoColor=white)](your-telegram-url)
+
