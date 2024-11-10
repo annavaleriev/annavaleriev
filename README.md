@@ -11,7 +11,7 @@
     </a>
   </div>
   <div id="counter">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views Counter" width="80"/>
+    <img src="https://komarev.com/ghpvc/?username=annavaleriev&style=flat-square&color=blue" alt="Profile Views Counter" width="80"/>
   </div>
 </div>
 
