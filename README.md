@@ -3,7 +3,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFrMnlrNjRzY2dxZmV6b2djeDh1Y2x1MWVyZXUxa2Nycm9neDcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A75RyXVzzSI2bx4Gj/giphy.gif" width="100"/>
   </div>
   <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="your-instagram-URL">
+    <a href="https://t.me/anna_8_5">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="your-headhunter-URL">
