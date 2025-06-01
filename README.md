@@ -35,7 +35,7 @@
   <p>:telescope: Занимаюсь бэкенд-разработкой.</p>
   <p>:zap: В свободное время хожу на концерты, путешествую и глажу котиков.</p>
   <p>:mailbox: Связаться со мной можно в Telegram: 
-    <a href="[https://t.me/anna_8_5">
+    <a href="https://t.me/anna_8_5">
       <img src="https://img.shields.io/badge/-Anna-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </p>
