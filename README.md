@@ -59,18 +59,7 @@
 </html>
 
 <div class="section">
-  <h2>🔥 Моя статистика 🔥</h2>
 
-
-
-  <!-- GitHub Stats -->
-  <div style="text-align: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=annavaleriev&show_icons=true&theme=merko" alt="GitHub Stats"/>
-    </a>
-  </div>
-
-  <hr>
 
   <!-- Top Languages Stats -->
   <div style="text-align: center;">
