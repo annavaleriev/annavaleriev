@@ -4,14 +4,11 @@
   </div>
   <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://t.me/anna_8_5">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="your-headhunter-URL">
       <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
     </a>
-  </div>
-  <div id="counter">
-    <img src="https://komarev.com/ghpvc/?username=annavaleriev&style=flat-square&color=blue" alt="Profile Views Counter" width="80"/>
   </div>
 </div>
 
