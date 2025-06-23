@@ -6,7 +6,7 @@
     <a href="https://t.me/anna_8_5">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="your-headhunter-URL">
+    <a href="[your-headhunter-URL](https://spb.hh.ru/resume/f239e5f3ff0ee96ee50039ed1f74486a433151)">
       <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
     </a>
   </div>
