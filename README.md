@@ -45,8 +45,7 @@
   <div style="text-align: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django REST Framework" alt="DRF" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/raphael10-collab/devicon/master/icons/djangorest/djangorest-original.png" 
-     title="Django REST Framework" alt="DRF" width="40" height="40"/>
+    <img src="https://www.django-rest-framework.org/img/logo.png"title="Django REST Framework" alt="DRF" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
